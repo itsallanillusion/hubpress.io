@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Ghost"
+    "name": "ghost"
   },
   "urls": {
     "site": "https://itsallanillusion.github.io",
     "hubpress": "https://itsallanillusion.github.io",
-    "theme": "//itsallanillusion.github.io/themes/ghostium",
+    "theme": "//itsallanillusion.github.io/themes/ghost",
     "images": "https://itsallanillusion.github.io/images"
   },
   "initialisationConfigComponent": {
