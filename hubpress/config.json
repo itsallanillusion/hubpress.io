@@ -6,5 +6,21 @@
   },
   "theme": {
     "name": "ghostium"
+  },
+  "urls": {
+    "site": "https://itsallanillusion.github.io",
+    "hubpress": "https://itsallanillusion.github.io",
+    "theme": "//itsallanillusion.github.io/themes/ghostium",
+    "images": "https://itsallanillusion.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
