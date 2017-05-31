@@ -2,7 +2,8 @@
   "meta": {
     "username": "itsallanillusion",
     "repositoryName": "itsallanillusion.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "ghostium"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "Itsallanillusion",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
